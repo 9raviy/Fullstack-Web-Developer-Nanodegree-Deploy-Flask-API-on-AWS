@@ -4,6 +4,7 @@ Tests for jwt flask app.
 import os
 import json
 import pytest
+from typing import Any
 
 import main.__init__ as __init__
 
